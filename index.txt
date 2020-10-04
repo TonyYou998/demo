@@ -1,0 +1,10 @@
+// git init để khởi tạo
+// kết nối project vs respo git remote add origin url
+// kiểm tra trạng thái
+// git status
+// màu đỏ file đã thay đỏi nhưng chưa save
+// màu xanh file đã đổi và Save
+
+// git add file name để save .để save hết
+// commit thay đỏi git commit -m "first commit"
+// git push -u origin master push lên sever

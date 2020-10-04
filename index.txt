@@ -8,3 +8,6 @@
 // git add file name để save .để save hết
 // commit thay đỏi git commit -m "first commit"
 // git push -u origin master push lên sever
+lần đầu xài cần chạy 2 lệnh
+git config --global user.name "name"
+git config --global user.email "email"

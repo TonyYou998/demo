@@ -11,3 +11,6 @@
 lần đầu xài cần chạy 2 lệnh
 git config --global user.name "name"
 git config --global user.email "email"
+tạo ra 1 branch mới git checkout -b branch-name
+chuyển brach:git checkout branch-name
+git pull lấy file từ remote về local 

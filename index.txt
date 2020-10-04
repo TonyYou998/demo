@@ -14,3 +14,13 @@ git config --global user.email "email"
 tạo ra 1 branch mới git checkout -b branch-name
 chuyển brach:git checkout branch-name
 git pull lấy file từ remote về local 
+đổi branch  git checkout "name"
+xem branch git brach
+cách fix conflict
+b1 git checkout master
+b2 git pull
+b3 git checkout branch-conflict
+b4 git merge master
+b5 fix conflict
+b6 git add, commit,push
+git clone để lấy respo về
